@@ -18,7 +18,7 @@
 <div align="left">
   <a href="https://linkedin.com/in/bhushan-songire" target="blank">
     <!-- <img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-icon-2.svg" alt="bhushan-songire-linkedin"  height="40" width="40" style="margin-right: 12px;"/> -->
-    <img align="center" src="https://cdn.jsdelivr.net/gh/Devicons/devicon/icons/linkedin/linkedin-original.svg" alt="bhushan-songire-linkedin"  height="40" width="40" style="margin-right: 12px;"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/Devicons/devicon/icons/linkedin/linkedin-original.svg" alt="bhushan-songire-linkedin"  height="40" width="40" />
   </a>
   <a href="https://www.hackerrank.com/bhushanbsongire" target="blank">
     <!-- <img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/git-icon.svg" alt="@BBS1412 github-id" height="40" width="40" /> -->
