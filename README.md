@@ -17,7 +17,8 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/bhushan-songire" target="blank">
-  <img align="center" src="https://github.com/Bbs1412/Bbs1412/assets/106373876/5d9addfe-b4b8-4444-807d-cbc927751567" alt="bhushan-songire"  height="35" width="40" /></a>
+  <!-- <img align="center" src="https://github.com/Bbs1412/Bbs1412/asset_files/linkedin-icon-2.svg" alt="bhushan-songire"  height="35" width="40" /></a> -->
+  <img align="center" src="https://drive.google.com/file/d/1-meim_GR-7t_ifCjwBAH5gDektzGlTSx" alt="bhushan-songire"  height="35" width="40" /></a>
 <a href="https://www.hackerrank.com/bhushanbsongire" target="blank">
   <img align="center" src="https://github.com/Bbs1412/Bbs1412/assets/106373876/da38483b-f56d-43cb-9a1f-41f98c0e5502" alt="@bhushanbsongire" height="40" width="40" /></a>
 </div>
