@@ -98,6 +98,7 @@
 
 ###
 
+<!--
 <style>
   .git-hub-logo {
     /* filter: drop-shadow(2px 2px 2px #000);  */
@@ -118,3 +119,4 @@
     display: inline-block;
 }
 </style>
+-->
