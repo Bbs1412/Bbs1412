@@ -83,7 +83,7 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/arduino-1.svg" height="40" alt="arduino logo"  /> -->
       <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" class="linux-logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-edited.svg" height="40" alt="linux logo" class="linux-logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linux-edited.svg" height="40" alt="linux logo" class="linux-logo-edit"/>
       <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/git-icon.svg" height="40" alt="git logo"  /> -->

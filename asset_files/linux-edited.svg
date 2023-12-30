@@ -1,17 +1,14 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-<style>
-.linux-logo{ 
-    /* margin-top: 700px; */
-    /* height: 150px; */ 
-    /* background-color: grey; */ 
-    background-color: #bbb; 
-    border-radius: 50%; 
-    /* padding: 0px; */ 
-    /* box-shadow: 0 0 0 0px black; */ 
-    display: inline-block; 
-}
-</style>
+<style type="text/css">
+.linux-logo-edit
+        {
+            fill: white; /* Set fill color */
+            stroke: black; /* Set border color */
+            stroke-width: 2; /* Set border width */
+        }
+    </style>
+    <circle cx="50" cy="50" r="45" class="linux-logo" />
 <radialGradient id="linux-original-a" cx="-992.915" cy="-952.952" r="43.267" gradientTransform="matrix(.7 0 0 .35 782.303 444.575)" gradientUnits="userSpaceOnUse">
 
 <stop offset="0" stop-opacity=".502"/>
