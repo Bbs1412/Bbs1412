@@ -89,7 +89,8 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/git-icon.svg" height="40" alt="git logo"  /> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linux-original.svg" height="40" alt="linux logo"  /> -->
       <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" class="git-hub-logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/github_edit_png.png" height="40" alt="github logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" class="git-hub-logo"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/github-original.svg" height="40" alt="github logo"  /> -->
       <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/excel-4.svg" height="40" alt="excel logo"  />
@@ -101,6 +102,9 @@
 <!--
 <style>
   .git-hub-logo {
+    margin-top: 700px;
+    height: 250px;
+    /* background-color: grey; */
     /* filter: drop-shadow(2px 2px 2px #000);  */
     /* Add drop shadow */
     /* or */
