@@ -38,7 +38,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/python-5.svg" height="40" alt="python logo" style="margin-bottom: 3px;"/> -->
-      <img width="12">
+  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/c-1.svg" height="45" alt="c logo" /> -->
       <img width="12" />
