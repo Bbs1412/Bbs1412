@@ -3,12 +3,12 @@
 <style type="text/css">
 .linux-edited
         {
-            fill: white; /* Set fill color */
+            <!-- fill: white; /* Set fill color */
             stroke: black; /* Set border color */
-            stroke-width: 2; /* Set border width */
+            stroke-width: 2; /* Set border width */ -->
         }
     </style>
-    <circle cx="50" cy="50" r="45" class="linux-logo" />
+    <!-- <circle cx="50" cy="50" r="45" class="linux-logo" /> -->
 <radialGradient id="linux-original-a" cx="-992.915" cy="-952.952" r="43.267" gradientTransform="matrix(.7 0 0 .35 782.303 444.575)" gradientUnits="userSpaceOnUse">
 
 <stop offset="0" stop-opacity=".502"/>
