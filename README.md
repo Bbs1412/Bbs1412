@@ -24,7 +24,8 @@
     <!-- <img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/git-icon.svg" alt="@BBS1412 github-id" height="40" width="40" /> -->
     <!-- <img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/github-original.svg" alt="@BBS1412 github-id" height="40" width="40" class="git-hub-logo" />  -->
     <!-- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="@BBS1412 github-id" /> -->
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="@BBS1412 github-id" class="git-hub-logo"/>
+    <!-- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="@BBS1412 github-id" class="git-hub-logo"/> -->
+    <img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/github_edit_png.png" height="40" alt="@BBS1412 github-id" class="git-hub-logo"/>
   </a>
 </div>
 
