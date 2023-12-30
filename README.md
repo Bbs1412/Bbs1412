@@ -17,10 +17,15 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/bhushan-songire" target="blank">
-  <!-- <img align="center" src="https://github.com/Bbs1412/Bbs1412/asset_files/linkedin-icon-2.svg" alt="bhushan-songire"  height="35" width="40" /></a> -->
-  <img align="center" src="https://drive.google.com/file/d/1-meim_GR-7t_ifCjwBAH5gDektzGlTSx" alt="bhushan-songire"  height="35" width="40" /></a>
-<a href="https://www.hackerrank.com/bhushanbsongire" target="blank">
-  <img align="center" src="https://github.com/Bbs1412/Bbs1412/assets/106373876/da38483b-f56d-43cb-9a1f-41f98c0e5502" alt="@bhushanbsongire" height="40" width="40" /></a>
+    <!-- <img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-icon-2.svg" alt="bhushan-songire-linkedin"  height="40" width="40" style="margin-right: 12px;"/> -->
+    <img align="center" src="https://cdn.jsdelivr.net/gh/Devicons/devicon/icons/linkedin/linkedin-original.svg" alt="bhushan-songire-linkedin"  height="40" width="40" style="margin-right: 12px;"/>
+  </a>
+  <a href="https://www.hackerrank.com/bhushanbsongire" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/git-icon.svg" alt="@BBS1412 github-id" height="40" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/github-original.svg" alt="@BBS1412 github-id" height="40" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="@BBS1412 github-id" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="@BBS1412 github-id" />
+  </a>
 </div>
 
 
@@ -32,26 +37,38 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/python-5.svg" height="40" alt="python logo" style="margin-bottom: 3px;"/> -->
+      <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/c-1.svg" height="45" alt="c logo" /> -->
+      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/c.svg" height="41" alt="cplusplus logo" style="margin-bottom: 2px"/> -->
+      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-
+  <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/java-4.svg" height="45" alt="java logo"  /> -->
+      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh//Bbs1412/Bbs1412/asset_files/jupyter-original.svg" height="40" alt="jupyter logo"  /> -->
+      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh//Bbs1412/Bbs1412/asset_files/matlab.svg" height="40" alt="matlab logo"  /> -->
+      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh//Bbs1412/Bbs1412/asset_files/html-1.svg" height="40" alt="html5 logo"  /> -->
+      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/css-3.svg" height="40" alt="css3 logo"  /> -->
+      <img width="12" />
 </div>
 
 ###
-<!--  <img width="max" alt="Screenshot 2023-12-18 012358" src="https://github.com/Bbs1412/Bbs1412/assets/106373876/d339c1ce-3890-4e55-8dbb-57663e02614a">  -->
+
+<!-- uncomment this section for badges of hackerrank: -->
+<!-- <h2> </h2> -->
+
+<!-- <img width="max" alt="Coding Badges" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/Badges.png">  -->
+
 
 ###
 
@@ -61,14 +78,22 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh//Bbs1412/Bbs1412/asset_files/raspberry-pi.svg" height="40" alt="raspberrypi logo"  /> -->
+      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/arduino-1.svg" height="40" alt="arduino logo"  /> -->
+      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img src="https://github.com/Bbs1412/Bbs1412/assets/106373876/ef7820f7-c03e-480d-ab91-4714e862b9da" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://github.com/Bbs1412/Bbs1412/assets/106373876/83af8bd7-895d-4b52-9045-8ec47b9db14c" height="40" alt="excel logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linux-original.svg" height="40" alt="linux logo"  /> -->
+      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/git-icon.svg" height="40" alt="git logo"  /> -->
+      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/github-original.svg" height="40" alt="github logo"  /> -->
+      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/excel-4.svg" height="40" alt="excel logo"  />
+      <img width="12" />
 </div>
 
 ###
