@@ -1,14 +1,19 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"> -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -5 140 140">
 <style type="text/css">
-.linux-edited
+.linux-logo
         {
-            <!-- fill: white; /* Set fill color */
-            stroke: black; /* Set border color */
-            stroke-width: 2; /* Set border width */ -->
+            <!-- background-color: #555; -->
+            <!-- border-radius: 50%; -->
+            <!-- display: inline-block; -->
+            <!-- fill: grey;  -->
+            fill: #bbb; 
+            stroke: black; 
+            stroke-width: 0.5; 
         }
     </style>
-    <!-- <circle cx="50" cy="50" r="45" class="linux-logo" /> -->
+    <circle cx="65" cy="66" r="68" class="linux-logo"/>
 <radialGradient id="linux-original-a" cx="-992.915" cy="-952.952" r="43.267" gradientTransform="matrix(.7 0 0 .35 782.303 444.575)" gradientUnits="userSpaceOnUse">
 
 <stop offset="0" stop-opacity=".502"/>
