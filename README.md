@@ -33,6 +33,7 @@
 ###
 
 <div align="left">
+<a href="javascript:void(0);">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/python-5.svg" height="40" alt="python logo" style="margin-bottom: 3px;"/> -->
   <img width="12">
@@ -57,6 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/css-3.svg" height="40" alt="css3 logo"  /> -->
       <img width="12" />
+</a>
 </div>
 
 ###
