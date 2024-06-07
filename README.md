@@ -167,7 +167,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh//Bbs1412/Bbs1412/asset_files/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <!-- <img width="12"> -->
+  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/c-1.svg" height="45" alt="c logo" /> -->
   <img width="12" />
