@@ -44,7 +44,7 @@
   <!-- python -->
   <span>
     <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 alt="python" href="#"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 alt="python" />
     <img width=6>
   </span>
   <!-- c -->
@@ -114,6 +114,12 @@
   <span>
     <img width=6>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height=40 alt="flask" />
+    <img width=6>
+  </span>
+  <!-- selenium -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/selenium_logo_upright.svg" height=40 alt="selenium" />
     <img width=6>
   </span>
 
