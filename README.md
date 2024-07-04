@@ -39,8 +39,7 @@
 
 ###
 
-<div align="left">
-
+<div align="left" id="languages">
   <!-- python -->
   <span>
     <img width=6>
@@ -79,7 +78,7 @@
 
 ###
 
-<div align="left">
+<div align="left" id="frameworks"> 
   <!-- numpy -->
   <span>
     <img width=6>
@@ -119,7 +118,7 @@
   <!-- selenium -->
   <span>
     <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/selenium_logo_upright.svg" height=40 alt="selenium" />
+    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/selenium.svg" height=40 alt="selenium" />
     <img width=6>
   </span>
 
@@ -129,7 +128,7 @@
 
 ###
   
-<div align="left">
+<div align="left" id="web-dev">
   <!-- html -->
   <span>
     <img width=6>
@@ -163,7 +162,7 @@
 ###
 
 
-<div align="left">
+<div align="left" id="cloud-deployment">
   <!-- Google Cloud GCP -->
   <span>
     <img width=6>
@@ -204,7 +203,7 @@
 
 ###
 
-<div align="left">
+<div align="left" id="tools-platforms">
   <!-- linux -->
   <span>
     <img width=6>
@@ -254,7 +253,7 @@
 
 ###
 
-<div align="left">
+<div align="left" id="hardware">
   <!-- Raspberry Pi -->
   <span>
     <img width=6>
