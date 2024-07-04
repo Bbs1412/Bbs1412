@@ -44,7 +44,9 @@
   <!-- python -->
   <span>
     <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 alt="python" style="pointer-events: none;"/>
+    <a href="#" style="pointer-events: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 alt="python" style="pointer-events: none;"/>
+    </a>
     <img width=6>
   </span>
   <!-- c -->
