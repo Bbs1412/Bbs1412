@@ -155,6 +155,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 alt="react.js" />
     <img width=6>
   </span>
+  <!-- streamlit -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height=40 alt="streamlit" />
+    <img width=6>
+  </span>
 </div>
 
 ###
@@ -236,11 +242,11 @@
     <img width=6>
   </span>
   <!-- markdown -->
-  <span>
+  <!-- <span>
     <img width=6>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height=40 alt="markdown" />
     <img width=6>
-  </span>
+  </span> -->
   <!-- vsc -->
   <span>
     <img width=6>
