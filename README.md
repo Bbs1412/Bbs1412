@@ -20,7 +20,7 @@
 
 <!-- Local images from repo can be used, but they are significantly slower than CDN -->
 <!-- https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/ -->
-<!-- https://cdn.jsdelivr.net/gh/Devicons/devicon/icons/ -->
+<!-- Devicons -> devicon -->
 <!-- -->
 
 <h2 align="left">Connect with me:</h3>
