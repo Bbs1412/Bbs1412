@@ -257,7 +257,8 @@
   <!-- vsc -->
   <span>
     <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vscode-original.svg" height=40 alt="vsc" />
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/code-original.svg" height=40 alt="vsc" />
+    <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vscode-original.svg" height=40 alt="vsc" /> -->
     <img width=6>
   </span>
 </div>
