@@ -6,7 +6,7 @@
 
 <h3 align="center">I am a computer enthusiast currently pursuing <br> B. Tech in CSE 💻 @ VIT, Chennai.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
 - ✨ Creating bugs since May 2022
 
