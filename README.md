@@ -238,7 +238,9 @@
   <!-- SQLite -->
   <span>
     <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sqlite.svg" height=40 alt="Python-SQLite" />
+    <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sqlite.svg" height=40 alt="Python-SQLite" />
+    </a>
     <img width=6>
   </span>
 
