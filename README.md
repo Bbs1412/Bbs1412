@@ -191,16 +191,17 @@
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vertex-ai.svg" height=40 alt="vertex-ai" />
     <img width=6>
   </span>
+  <!-- AWS -->
+  <span>
+    <img width=6>
+    <!-- <img src="./asset_files/aws.svg" height=40 alt="amazon-web-services" /> -->
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/aws.svg" height=40 alt="amazon-web-services" />
+    <img width=6>
+  </span>
   <!-- docker -->
   <span>
     <img width=6>
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/docker-original.svg" height=40 alt="docker" />
-    <img width=6>
-  </span>
-  <!-- firebase -->
-  <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/firebase-original.svg" height=40 alt="firebase" />
     <img width=6>
   </span>
   <!-- vercel -->
@@ -209,6 +210,38 @@
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vercel-original.svg" height=40 alt="vercel" />
     <img width=6>
   </span>
+  
+</div>
+
+
+
+###
+
+<h2 align="left">Databases:</h2>
+
+###
+
+
+<div align="left" id="databases">
+  <!-- firebase -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/firebase-original.svg" height=40 alt="firebase" />
+    <img width=6>
+  </span>
+  <!-- SQL -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sql.svg" height=40 alt="Oracle-SQL" />
+    <img width=6>
+  </span>
+  <!-- SQLite -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sqlite.svg" height=40 alt="Python-SQLite" />
+    <img width=6>
+  </span>
+
   
 </div>
 
