@@ -334,9 +334,8 @@
 ###
 
 # Stay Connected:
-<!-- [![Badge Text](https://img.shields.io/badge/Label-Message-Color)](https://link-to-your-destination) -->
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=plastic) -->
-![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=flat)
+<!-- [![Badge Text](https://img.shields.io/badge/Label-Message-Color)](https://github.com/Bbs1412) -->
+![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=plastic)
 [![HackerRank](https://img.shields.io/badge/HackerRank-buhshanbsongire-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/buhshanbsongire)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/)
 [![Gmail](https://img.shields.io/badge/Gmail-bhushanbsongire-red?style=flat&logo=gmail)](mailto:bhushanbsongire@gmail.com)
