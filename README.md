@@ -23,6 +23,7 @@
 <!-- Devicons -> devicon -->
 <!-- -->
 
+<!--
 <h2 align="left">Connect with me:</h3>
 
 <div align="left">
@@ -33,6 +34,7 @@
     <img width=6><img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hackerrank.svg" height=55 alt="@buhshanbsongire hackerrank-id" /><img width=6></a>
 
 </div>
+-->
 
 ###
 
@@ -326,4 +328,15 @@
 <!-- <img width="max" alt="Coding Badges" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/Badges.png">  -->
 
 ###
+
+--- 
+
+###
+
+# Stats and Connect With me
+<!-- [![Badge Text](https://img.shields.io/badge/Label-Message-Color)](https://link-to-your-destination) -->
+![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/)
+[![Gmail](https://img.shields.io/badge/Gmail-bhushanbsongire-red?style=flat&logo=gmail)](mailto:bhushanbsongire@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-buhshanbsongire-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/buhshanbsongire)
 
