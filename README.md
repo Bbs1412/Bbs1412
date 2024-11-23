@@ -329,11 +329,28 @@
 
 ###
 
---- 
+---
+
+###
+
+# Stats:
+
+<!-- ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark) -->
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" />
+  <img width="20">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github" />
+</div>
+
 
 ###
 
 # Stay Connected:
+
+###
+
 <!-- [![Badge Text](https://img.shields.io/badge/Label-Message-Color)](https://github.com/Bbs1412) -->
 ![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=plastic)
 [![HackerRank](https://img.shields.io/badge/HackerRank-buhshanbsongire-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/buhshanbsongire)
