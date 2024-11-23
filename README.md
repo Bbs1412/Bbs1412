@@ -338,11 +338,13 @@
 <!-- ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark) -->
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" />
-  <img width="20">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github" />
+
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" />
+
+<br>
+
+<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Bbs1412&&theme=dark"/>
 
 
 ###
