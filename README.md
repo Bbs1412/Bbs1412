@@ -237,6 +237,12 @@
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sql.svg" height=40 alt="Oracle-SQL" />
     <img width=6>
   </span>
+  <!-- My-SQL -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/mysql.svg" height=45 alt="MySQL" />
+    <img width=6>
+  </span>
   <!-- SQLite -->
   <span>
     <img width=6>
