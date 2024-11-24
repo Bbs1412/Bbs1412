@@ -338,13 +338,13 @@
 <!-- ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github" alt="Bhushan's GitHub stats" />
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" alt="Top Languages" />
 
 <br>
 
-<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Bbs1412&&theme=dark"/>
+<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Bbs1412&&theme=dark" alt="Streak" />
 
 
 ###
@@ -355,8 +355,23 @@
 
 <!-- [![Badge Text](https://img.shields.io/badge/Label-Message-Color)](https://github.com/Bbs1412) -->
 ![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=plastic)
-[![HackerRank](https://img.shields.io/badge/HackerRank-buhshanbsongire-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/buhshanbsongire)
 [![Gmail](https://img.shields.io/badge/Gmail-bhushanbsongire-red?style=flat&logo=gmail)](mailto:bhushanbsongire@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/)
-[![YouTube](https://img.shields.io/badge/YouTube-bhushan--songire-red?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/@buhshan_songire)
+<!-- [![HackerRank](https://img.shields.io/badge/HackerRank-buhshanbsongire-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/buhshanbsongire) -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/) -->
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-bhushan--songire-red?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/@buhshan_songire) -->
+
+<span>
+  <!-- <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <a target="_blank" href="mailto:bhushanbsongire@gmail.com"><img src="./gmail-svgrepo-com.svg" height="30" alt="gmail" style="margin-bottom: 5px"></a>
+  <a target="_blank"><img width="6" style="max-width: 100%;"></a> -->
+  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <a target="_blank" href="https://linkedin.com/bhushan-songire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-original.svg" height="40" alt="linkedin"></a>
+  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <a target="_blank" href="https://www.hackerrank.com/profile/bhushanbsongire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hackerrank_o.svg" height="38" alt="hackerrank" style="border-radius:3px"></a>
+  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <a target="_blank" href="https://www.youtube.com/@buhshan_songire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/youtube.svg" height="40" alt="youtube"></a>
+  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+</span>
 
