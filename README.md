@@ -344,13 +344,14 @@
 <!-- ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github" alt="Bhushan's GitHub stats" />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" alt="Bhushan's Top Languages" />
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" alt="Top Languages" />
-
-<br>
-
-<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Bbs1412&&theme=dark" alt="Streak" />
+<div align=center>
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github" alt="Bhushan's GitHub stats" />
+  <br>
+  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Bbs1412&theme=dark" alt="Bhushan's Streak" />
+  <br>
+</div>
 
 
 ###
