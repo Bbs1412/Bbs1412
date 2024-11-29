@@ -372,7 +372,7 @@
   <a target="_blank" href="mailto:bhushanbsongire@gmail.com"><img src="./gmail-svgrepo-com.svg" height="30" alt="gmail" style="margin-bottom: 5px"></a>
   <a target="_blank"><img width="6" style="max-width: 100%;"></a> -->
   <a target="_blank"><img width="6" style="max-width: 100%;"></a>
-  <a target="_blank" href="https://linkedin.com/bhushan-songire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-original.svg" height="40" alt="linkedin"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/bhushan-songire/"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-original.svg" height="40" alt="linkedin"></a>
   <a target="_blank"><img width="6" style="max-width: 100%;"></a>
   <a target="_blank"><img width="6" style="max-width: 100%;"></a>
   <a target="_blank" href="https://www.hackerrank.com/profile/bhushanbsongire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hackerrank_o.svg" height="38" alt="hackerrank" style="border-radius:3px"></a>
