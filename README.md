@@ -249,6 +249,12 @@
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sqlite.svg" height=40 alt="Python-SQLite" />
     <img width=6>
   </span>
+  <!-- Sanity -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sanity.svg" height=40 alt="Sanity-CMS" style="border-radius: 8%"/>
+    <img width=6>
+  </span>
 
   
 </div>
