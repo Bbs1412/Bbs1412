@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhushan B. Songire</h1>
 
-<img align="right" width="400" alt="coding" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coder.gif">
+<img align="right" width="375" alt="coding" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coder.gif">
 
 <h3 align="center">I am a computer enthusiast currently pursuing <br> B. Tech in CSE 💻 @ VIT, Chennai.</h3>
 
@@ -12,18 +12,17 @@
 - 🧱 I love **building things from scratch**.
  
 
-- | | |
-  |:-|:-|
-  | 👨‍💻 All of my projects are here | [![GitHub](https://img.shields.io/badge/GitHub-Bbs1412-yellow?style=plastic&logo=github)](https://github.com/Bbs1412) |
-  | 📫 How to reach me | [![Gmail](https://img.shields.io/badge/Gmail-bhushanbsongire-red?style=plastic&logo=gmail)](mailto:bhushanbsongire@gmail.com) |
-  | 📄 Know about my experiences | [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=plastic&logo=invision&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/) |
-  | ▶️ Watch my Project Demos | [![YouTube](https://img.shields.io/badge/YouTube-bhushan__songire-red?style=plastic&logo=youtube&logoColor=red)](https://www.youtube.com/@buhshan_songire/videos) |
-  <!-- | 🌐 My portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-bhushan--songire-blue?style=plastic&logo=&logoColor=blue)](https://bhushan-songire.github.io/)  -->
+| | |
+|:-|:-|
+| 👨‍💻 All of my projects are here | [![GitHub](https://img.shields.io/badge/GitHub-Bbs1412-yellow?style=plastic&logo=github)](https://github.com/Bbs1412) |
+| 📫 How to reach me | [![Gmail](https://img.shields.io/badge/Gmail-bhushanbsongire-red?style=plastic&logo=gmail)](mailto:bhushanbsongire@gmail.com) |
+| 📄 Know about my experiences | [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=plastic&logo=invision&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/) |
+| ▶️ Watch my Project Demos | [![YouTube](https://img.shields.io/badge/YouTube-bhushan__songire-red?style=plastic&logo=youtube&logoColor=red)](https://www.youtube.com/@buhshan_songire/videos) |
+<!-- | 🌐 My portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-bhushan--songire-blue?style=plastic&logo=&logoColor=blue)](https://bhushan-songire.github.io/)  -->
 
 ###
 
-<h1> Skills: </h1>
-
+# Skills:
 <h2 align="left">Programming Languages:</h2>
 
 ###
@@ -162,6 +161,18 @@
   <span>
     <img width=6>
     <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/selenium.svg" height=40 alt="selenium" />
+    <img width=6>
+  </span>
+  <!-- OpenCV -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/opencv-original.svg" height=40 alt="OpenCV" />
+    <img width=6>
+  </span>
+  <!-- MediaPipe -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/mediapipe.svg" height=40 alt="MediaPipe" />
     <img width=6>
   </span>
 </div>
