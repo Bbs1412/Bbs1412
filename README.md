@@ -1,40 +1,24 @@
 
 <h1 align="center">Hi 👋, I'm Bhushan B. Songire</h1>
 
-<!-- <img align="right" width="400" alt="coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Italian Trulli"> -->
 <img align="right" width="400" alt="coding" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coder.gif">
 
 <h3 align="center">I am a computer enthusiast currently pursuing <br> B. Tech in CSE 💻 @ VIT, Chennai.</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Generative and Agentic AI**.
 
-- ✨ Creating bugs since May 2022
+- ✨ Creating bugs since **May 2022**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bbs1412](https://github.com/Bbs1412)
+- 🧱 I love **building things from scratch**.
+ 
 
-- 📫 How to reach me **bhushanbsongire@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/bhushan-songire/](https://www.linkedin.com/in/bhushan-songire/)
-
-###
-
-<!-- Local images from repo can be used, but they are significantly slower than CDN -->
-<!-- https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/ -->
-<!-- Devicons -> devicon -->
-<!-- -->
-
-<!--
-<h2 align="left">Connect with me:</h3>
-
-<div align="left">
-
-  <a href="https://linkedin.com/in/bhushan-songire" target="blank">
-    <img width=6><img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-original.svg" alt="bhushan-songire-linkedin" height=40 width=40 /><img width=6></a>
-  <a href="https://www.hackerrank.com/bhushanbsongire" target="blank">
-    <img width=6><img align="center" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hackerrank.svg" height=55 alt="@buhshanbsongire hackerrank-id" /><img width=6></a>
-
-</div>
--->
+- | | |
+  |:-|:-|
+  | 👨‍💻 All of my projects are here | [![GitHub](https://img.shields.io/badge/GitHub-Bbs1412-yellow?style=plastic&logo=github)](https://github.com/Bbs1412) |
+  | 📫 How to reach me | [![Gmail](https://img.shields.io/badge/Gmail-bhushanbsongire-red?style=plastic&logo=gmail)](mailto:bhushanbsongire@gmail.com) |
+  | 📄 Know about my experiences | [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=plastic&logo=invision&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/) |
+  | ▶️ Watch my Project Demos | [![YouTube](https://img.shields.io/badge/YouTube-bhushan__songire-red?style=plastic&logo=youtube&logoColor=red)](https://www.youtube.com/@buhshan_songire/videos) |
+  <!-- | 🌐 My portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-bhushan--songire-blue?style=plastic&logo=&logoColor=blue)](https://bhushan-songire.github.io/)  -->
 
 ###
 
@@ -79,6 +63,66 @@
 
 ###
 
+<h2 align="left">Generative AI:</h2>
+
+###
+
+<div align="left" id="genai"> 
+  <!-- LangChain -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/langchain-color.svg" height=60 alt="langchain" align="center" />
+    <img width=6>
+  </span>
+  <!-- Langgraph -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/langgraph-color.svg" height=60 alt="langgraph" align="center" />
+    <img width=6>
+  </span>
+  <!-- langsmith -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/langsmith-color.svg" height=60 alt="langsmith" align="center" />
+    <img width=6>
+  </span>
+  <!-- Ollama -->
+  <span>
+    <img width=6>
+    <!-- Dark is not visible in white mode -->
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/ollama-light.png" height=40 alt="ollama" align="center" />
+    <img width=6>
+  </span>
+  <!-- OpenAI -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/openai-streamline-white.svg" height=40 alt="openai" align="center" />
+    <img width=6>
+  </span>
+  <!-- Gemini -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/gemini-color.svg" height=40 alt="gemini" align="center" />
+    <img width=6>
+  </span>
+  <!-- Chroma -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/chroma-streamline.svg" height=40 alt="chroma" align="center" />
+    <img width=6>
+  </span>
+  <!-- Huggingface -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hugging-streamline.svg" height=40 alt="huggingface" align="center" />
+    <img width=6>
+  </span>
+
+
+</div>
+
+###
+
 <h2 align="left">Libraries and Frameworks:</h2>
 
 ###
@@ -114,18 +158,13 @@
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/seaborn.svg" height=40 alt="sns" />
     <img width=6>
   </span>
-  <!-- flask -->
-  <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/flask-original-wordmark.svg" height=40 alt="flask" />
-    <img width=6>
-  </span>
   <!-- selenium -->
   <span>
     <img width=6>
     <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/selenium.svg" height=40 alt="selenium" />
     <img width=6>
   </span>
+</div>
 
 ###
 
@@ -158,16 +197,30 @@
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/react-original.svg" height=40 alt="react.js" />
     <img width=6>
   </span>
-  <!-- postman -->
-  <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/postman-original.svg" height=40 alt="postman" />
-    <img width=6>
-  </span>
   <!-- streamlit -->
   <span>
     <img width=6>
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/streamlit-original.svg" height=40 alt="streamlit" />
+    <img width=6>
+  </span>
+  <!-- flask -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/flask-original-wordmark.svg" height=40 alt="flask" />
+    <img width=6>
+  </span>
+  <!-- fast-api -->
+  <span>
+    <img width=6>
+    <!-- delete local ref line and un-comment github one -->
+    <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/fastapi-original.svg" height=40 alt="fast-api" /> -->
+    <img src="./asset_files/fastapi-original.svg" height=40 alt="fast-api" />
+    <img width=6>
+  </span>
+  <!-- postman -->
+  <span>
+    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/postman-original.svg" height=40 alt="postman" />
     <img width=6>
   </span>
 </div>
@@ -189,14 +242,12 @@
   <!-- Vertex-AI -->
   <span>
     <img width=6>
-    <!-- <img src="./asset_files/vertex-ai-seeklogo.svg" height=40 alt="vertex-ai" /> -->
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vertex-ai.svg" height=40 alt="vertex-ai" />
     <img width=6>
   </span>
   <!-- AWS -->
   <span>
     <img width=6>
-    <!-- <img src="./asset_files/aws.svg" height=40 alt="amazon-web-services" /> -->
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/aws.svg" height=40 alt="amazon-web-services" />
     <img width=6>
   </span>
@@ -272,11 +323,6 @@
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linux_edit_png.png" height=40 alt="linux" />
     <img width=6>
   </span>
-  <!-- <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linux-original.svg" height=40 alt="linux" style="background-color: #bbb; border-radius: 50%; display: inline-block;" />
-    <img width=6>
-  </span> -->
   <!-- excel -->
   <span>
     <img width=6>
@@ -333,58 +379,51 @@
 
 ###
 
-
-<!-- uncomment this section for badges of HackerRank: -->
-<!-- <h2> </h2> -->
-
-<!-- <img width="max" alt="Coding Badges" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/Badges.png">  -->
-
-###
-
 ---
 
 ###
 
 # Stats:
 
-<!-- ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark) -->
-
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" alt="Bhushan's Top Languages" />
 
 <div align=center>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github&noCacche=true" alt="Bhushan's GitHub stats" />
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github&noCache=true" alt="Bhushan's GitHub stats" />
   <br>
-  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Bbs1412&theme=dark" alt="Bhushan's Streak" />
+  <!-- <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Bbs1412&theme=dark" alt="Bhushan's Streak" /> -->
+  <img width=500 src="https://streak-stats.demolab.com/?user=Bbs1412&theme=dark" alt="Bhushan's Streak" />
+  
   <br>
 </div>
 
 
 ###
 
-# Stay Connected:
+# Achievements and Certifications:
 
 ###
 
-<!-- [![Badge Text](https://img.shields.io/badge/Label-Message-Color)](https://github.com/Bbs1412) -->
-![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=plastic)
-[![Gmail](https://img.shields.io/badge/Gmail-bhushanbsongire-red?style=flat&logo=gmail)](mailto:bhushanbsongire@gmail.com)
-<!-- [![HackerRank](https://img.shields.io/badge/HackerRank-buhshanbsongire-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/buhshanbsongire) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/) -->
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-bhushan--songire-red?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/@buhshan_songire) -->
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=plastic) -->
+
 
 <span>
-  <!-- <a target="_blank"><img width="6" style="max-width: 100%;"></a>
-  <a target="_blank" href="mailto:bhushanbsongire@gmail.com"><img src="./gmail-svgrepo-com.svg" height="30" alt="gmail" style="margin-bottom: 5px"></a>
-  <a target="_blank"><img width="6" style="max-width: 100%;"></a> -->
+  <!-- GCSB -->
   <a target="_blank"><img width="6" style="max-width: 100%;"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/bhushan-songire/"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-original.svg" height="40" alt="linkedin"></a>
+  <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/722b070b-ede3-44fc-b97e-f10469c156f9"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/googlecloud-original.svg" height="40" alt="Google Cloud Skills Boost"></a>
   <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <!-- Hacker rank -->
   <a target="_blank"><img width="6" style="max-width: 100%;"></a>
-  <a target="_blank" href="https://www.hackerrank.com/profile/bhushanbsongire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hackerrank_o.svg" height="38" alt="hackerrank" style="border-radius:3px"></a>
+  <a target="_blank" href="https://www.hackerrank.com/profile/bhushanbsongire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hackerrank_o.svg" height="38" alt="hackerrank"></a>
   <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <!-- LinkedIn -->
   <a target="_blank"><img width="6" style="max-width: 100%;"></a>
-  <a target="_blank" href="https://www.youtube.com/@buhshan_songire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/youtube.svg" height="40" alt="youtube"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/bhushan-songire/#licenses_and_certifications"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-original.svg" height="40" alt="LinkedIn Certifications"></a>
   <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+
+  <!-- <img alt="Coding Badges" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/Badges.png">  -->
+
 </span>
 
+---  
+
+![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=plastic)
