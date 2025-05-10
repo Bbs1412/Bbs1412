@@ -224,8 +224,7 @@
   <span>
     <img width=6>
     <!-- delete local ref line and un-comment github one -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/fastapi-original.svg" height=40 alt="fast-api" /> -->
-    <img src="./asset_files/fastapi-original.svg" height=40 alt="fast-api" />
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/fastapi-original.svg" height=40 alt="fast-api" />
     <img width=6>
   </span>
   <!-- postman -->
@@ -394,9 +393,322 @@
 
 ###
 
+# My Projects:
+
+###
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Sr. No.</th>
+      <th>Project Name</th>
+      <th>Sample Image</th>
+      <th>Domain</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th colspan="5" id="sec_head">1️⃣ Generative AI Projects</th></tr>
+    <!-- AI Quiz -->
+    <tr>
+      <td>01</td>
+      <td><a href="https://github.com/Bbs1412/Inquisitive_GenAI_quiz" target="_blank">Inquisitive: GenAI Powered Quiz Generator</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Inquisitive_GenAI_quiz/assets/ss1_page.png" alt="Inquisitive Project Screenshot" width="1000px"></td>
+      <td>Generative AI, <br> EdTech, <br> LLMs</td>
+      <!-- <td>Python, Streamlit, Gemini API</td> -->
+      <td><ul>
+        <li>Python</li>
+        <li>Streamlit</li>
+        <li>Gemini API</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>This is an AI-powered multilingual quiz generator that builds interactive quizzes from any news article or topic in any language. It detects the language, translates to English for LLM-based question generation via Gemini API, and translates the questions back to the original language. The platform supports MCQ, Multiple-Correct, True/False, and Numerical ans type questions, provides result evaluation, and features a performance analysis section. The app is deployed using Streamlit with a simple and intuitive interface.</p>
+        </details>
+      </td>
+    </tr>
+    <!-- QnA ChatBot w LangChain -->
+    <tr>
+      <td>02</td>
+      <td><a href="https://github.com/Bbs1412/QnA_ChatBot" target="_blank">QnA ChatBot with LangChain</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/QnA_ChatBot/assets/3_demo_chat.png" alt="QnA ChatBot" width="1000px"></td>
+      <td>Generative AI, <br> LLM Orchestration</td>
+      <!-- <td>Python, Streamlit, LangChain, LangSmith</td> -->
+      <td><ul>
+        <li>Python</li>
+        <li>Streamlit</li>
+        <li>LangChain</li>
+        <li>LangGraph</li>
+        <li>LangSmith</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>A LangChain-powered QnA ChatBot, built with Streamlit. Supports real-time provider and model switching across OpenAI, Groq, Google, and Ollama. It dynamically lists models based on the selected LLM provider and maintains session history using advanced LangChain components.</p>
+        </details>
+      </td>
+    </tr>
+    <!-- RAG -->
+    <tr>
+      <td>03</td>
+      <td><a href="https://github.com/Bbs1412/" target="_blank">RAG with LangChain and Gemma-3</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coming_soon.png" alt="Gemma RAG with LangChain" width="250"></td>
+      <td>Generative AI, <br> Information Retrieval, <br> Retrieval Augmented Generation</td>
+      <!-- <td>Python, LangChain, Gemma-3, Ollama, FAISS, Streamlit</td> -->
+      <td><ul>
+        <!-- <li>Python</li> -->
+        <li>LangChain</li>
+        <li>Ollama</li>
+        <li>Gemma-3</li>
+        <li>FAISS</li>
+        <li>Streamlit</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>This project implements Retrieval-Augmented Generation (RAG) using LangChain and Google’s Gemma-3 model. It features a modular design with document ingestion, FAISS-based embedding storage, and real-time querying via a Streamlit interface. The user inputs a question, and the system retrieves relevant context chunks before generating a precise response.</p>
+        </details>
+      </td>
+    </tr>
+    <!-- LocalGPT -->
+    <tr>
+      <td>04</td>
+      <td><a href="https://github.com/Bbs1412/LocalGPT" target="_blank">LocalGPT</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/localgpt/assets/ss_image.png" alt="LocalGPT" width="1000px"></td>
+      <td>Generative AI, <br> Offline Chatbots, <br> Local LLMs</td>
+      <!-- <td>Python, Streamlit, Ollama</td> -->
+      <td><ul>
+        <li>Python</li>
+        <li>Streamlit</li>
+        <li>Ollama</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>LocalGPT is an offline clone of ChatGPT <mark>completely built from scratch</mark>. Uses open-source LLMs via Ollama and offers an interactive Streamlit-based interface. The tool supports conversation threads, real-time streaming responses, and multimodal inputs including vision models. It retains context per thread, allows model switching, and runs entirely without internet, making it ideal for local experimentation with LLMs.</p>
+        </details>
+      </td>
+    </tr>
+    <tr><th colspan="5" id="sec_head">2️⃣ Parallel Computing Projects</th></tr>
+    <!-- Smart Attendance System -->
+    <tr>
+      <td>05</td>
+      <td><a href="https://github.com/Bbs1412/SmartAttendanceSystem" target="_blank">Smart Attendance System</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/SmartAttendanceSystem/Docs/processing.png" alt="Smart Attendance System" width="1000px"></td>
+      <td>Face Recognition, <br> Web App, <br> Parallel Computing, <br> Attendance System</td>
+      <!-- <td>Python, Flask, Face Recognition, Threading, OpenCV, HTML, CSS, JS</td> -->
+      <td><ul>
+        <li>Python - Flask</li>
+        <li>Threading</li>
+        <li>OpenCV</li>
+        <li>Face Recognition</li>
+        <li>HTML, CSS, JS</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary>Project Details</summary>
+          The Smart Attendance System automates attendance calculation during lectures using video input. It processes frames using OpenCV and matches faces against pre-trained encodings. Attendance is based on 75% presence across frames. The UI is built with Flask server and provides downloadable Excel reports. Features include threading for concurrent processing, dark/light themes, and real-time feedback.
+        </details>
+      </td>
+    </tr>
+    <!-- Distributed Attendance System -->
+    <tr>
+      <td>06</td>
+      <td><a href="https://github.com/Bbs1412/DistributedAttendanceSystem" target="_blank">Distributed Attendance System</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/DistributedAttendanceSystem/assets/Client_dynamic.png" alt="Distributed Attendance System" width="1000px"></td>
+      <td>Distributed Computing, <br> Face Recognition, <br> Socket Programming</td>
+      <!-- <td>Python, Flask, Socket, Face Recognition, OpenCV, HTML, CSS, JS</td> -->
+      <td><ul>
+        <li>Python - Flask</li>
+        <li>Socket Programming</li>
+        <li>OpenCV</li>
+        <li>Face Recognition</li>
+        <li>HTML, CSS, JS</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary>View Project Details</summary>
+          <p>
+            The Distributed Attendance System extends a <mark>Smart Attendance System</mark> by enabling distributed video processing across multiple client machines. It supports both static and dynamic load balancing for real-time face recognition-based attendance marking. The web-based interface allows video uploads, and results are downloadable in Excel format. It ensures faster processing using distributed computing, all coordinated by a central Flask server.
+          </p>
+        </details>
+      </td>
+    </tr>
+    <tr><th colspan="5" id="sec_head">3️⃣ Hardware Based Projects</th></tr>
+    <!-- Air Quality -->
+    <tr>
+      <td>07</td>
+      <td><a href="https://github.com/Bbs1412/air-quality-updated" target="_blank">Air Quality Monitoring System with Emergency Alerts</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/air-quality-updated/public_assets/runtime_display_pic.png" alt="Air Quality Monitoring Web App" width="1000px"></td>
+      <td>Fog n Edge Computing,<br>IoT,<br>HVAC Monitoring</td>
+      <!-- <td>Python, Firebase, HTML, CSS, JavaScript, RaspberryPi, Arduino</td> -->
+      <td><ul>
+        <li>Python</li>
+        <li>Firebase</li>
+        <li>HTML, CSS, JS</li>
+        <li>Raspberry Pi</li>
+        <li>Arduino</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>This project is a real-time air quality and HVAC monitoring dashboard that collects data from various sensors for environmental factors via an Arduino and Raspberry Pi setup. It adheres to the Cloud-to-Fog-to-Things (C2F2T) model, ensuring low-latency, distributed processing. A local visualization is displayed on LCD-TFT screen. Also, The web app provides an interactive and responsive interface for real-time data visualization and emergency alerts, and uses Firebase for real-time data storage. Deployed on Vercel, it offers seamless access to both historical and live sensor data.</p>
+        </details>
+      </td>
+    </tr>
+    <!-- Ms Min -->
+    <tr>
+      <td>08</td>
+      <td><a href="https://github.com/Bbs1412/Ms_Minutes" target="_blank">Ms Minutes</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Ms_Minutes/assets/Hardware.png" alt="Ms Minutes" width="1000px"></td>
+      <td>Voice Assistant, <br> Home Automation, <br> MPMC</td>
+      <!-- <td>Python, Bash, OpenAI API, TTS, PyGame</td> -->
+      <td><ul>
+        <li>Python</li>
+        <li>OpenAI API</li>
+        <li>TTS</li>
+        <li>PyGame</li>
+        <li>Bash</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>Ms Minutes is a standalone, autonomous voice assistant inspired by the Loki character. It responds to voice commands for weather, calculations, definitions, and general questions. The assistant also includes home automation capabilities, controlling smart appliances like a solenoid latch. Integrated with the OpenAI API and deployed on a Raspberry Pi Zero 2-W, the system functions independently and can be used anywhere with just a power adapter.</p>
+        </details>
+      </td>
+    </tr>
+    <tr><th colspan="5" id="sec_head">4️⃣ Web Dev / Mini Projects </th></tr>
+    <!-- VTOP Extension -->
+    <tr>
+      <td>09</td>
+      <td><a href="https://github.com/Bbs1412/VTOP-Extension" target="_blank">VTOP Extension</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/VTOP-Extension/assets/after.png" alt="VTOP Extension" width="1000px"></td>
+      <td>Browser Extension, <br> VTOP</td>
+      <!-- <td>JavaScript, Chrome Scripting API, HTML, CSS</td> -->
+      <td><ul>
+        <li>JavaScript</li>
+        <li>Chrome Scripting API</li>
+        <li>HTML, CSS</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>This simple Chrome extension enhances the VTOP (Chennai Campus) portal by dynamically adding a total marks row to each subject's marks table. Built with Manifest v3 and the Chrome Scripting API, it's lightweight, easy to install manually, and works seamlessly on Chromium-based browsers.</p>
+        </details>
+      </td>
+    </tr>
+    <!-- Entry Management System -->
+    <tr>
+      <td>10</td>
+      <td><a href="https://github.com/Bbs1412/Swarajya-Food-Entry" target="_blank">Entry Management System</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Swarajya-Food-Entry/assets/5_trend.png" alt="Swarajya Entry Management System" width="1000px"></td>
+      <td>Event Management, <br> Offline Verification</td>
+      <!-- <td>Python, Streamlit, MySQL, Plotly Express</td> -->
+      <td><ul>
+        <li>Python</li>
+        <li>Streamlit</li>
+        <li>MySQL</li>
+        <li>Plotly Express</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>This project was developed to manage and verify entry for a food-based event organized by Swarajya: Marathi Literary Association at VIT Chennai. The system supports offline verification using MySQL, and a Streamlit-powered UI enables real-time entry marking and error correction. It features live dashboards showing marked/unmarked entries and a trend analysis chart to visualize footfall patterns. Designed for usability, it enables smooth operation across parallel queues using multiple devices on the same network.</p>
+        </details>
+      </td>
+    </tr>
+    <tr><th colspan="5" id="sec_head">5️⃣ AWS Projects</th></tr>
+    <!-- AWS Project - Beginner -->
+    <tr>
+      <td>11</td>
+      <td><a href="https://github.com/Bbs1412/aws-travel-guide" target="_blank">AWS - Beginner Project</a></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coming_soon.png" alt="Gemma RAG with LangChain" width="250"></td>
+      <td>Web Application, <br> Cloud Deployment</td>
+      <!-- <td>Python, Flask, AWS EC2, AWS RDS, HTML, CSS, JavaScript</td> -->
+      <td><ul>
+        <li>Python - Flask</li>
+        <li>AWS EC2</li>
+        <li>AWS RDS</li>
+        <li>SQLite</li>
+        <li>HTML, CSS, JS</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>This project is a beginner-friendly travel guide application deployed fully on AWS infrastructure. It uses EC2 for hosting the Flask backend, RDS (MySQL) or SQLite for storing location data, and presents travel recommendations through a clean web interface. The project demonstrates basic cloud deployment, database integration, and responsive web design, making it ideal for understanding AWS fundamentals.</p>
+        </details>
+      </td>
+    </tr>
+    <tr><th colspan="5" id="sec_head">6️⃣ Academic Subject Codes</th></tr>
+    <!-- OS -->
+    <tr>
+      <td>12</td>
+      <td><a href="https://github.com/Bbs1412/operating-system" target="_blank">Operating System Codes</a></td>
+      <td>-</td>
+      <td>Operating Systems, <br> Scheduling, <br>...</td>
+      <td><ul>
+        <li>C</li>
+        <li>P-thread</li></ul>
+      </td>
+    </tr>
+    <!-- Crypto -->
+    <tr>
+      <td>13</td>
+      <td><a href="https://github.com/Bbs1412/cryptography" target="_blank">Cryptography Codes</a></td>
+      <td>-</td>
+      <td>Cryptography, <br> Encryption, <br> Decryption</td>
+      <td><ul>
+        <li>Python</li>
+        <li>Socket</li>
+        <li>Cryptography</li></ul>
+      </td>
+    </tr>
+    <!-- MatLab Codes -->
+    <tr>
+      <td>14</td>
+      <td><a href="https://github.com/Bbs1412/Matlab" target="_blank">MatLab Codes</a></td>
+      <td>-</td>
+      <td>MatLab, <br> Calculus, <br> 3D-Plots</td>
+      <td><ul>
+        <li>MatLab</li></ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+###
+
+---
+
+###
+
 # Stats:
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" alt="Bhushan's Top Languages" />
+<!-- <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" alt="Bhushan's Top Languages" /> -->
 
 <div align=center>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github&noCache=true" alt="Bhushan's GitHub stats" />
@@ -413,9 +725,6 @@
 # Achievements and Certifications:
 
 ###
-
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=plastic) -->
-
 
 <span>
   <!-- GCSB -->
@@ -435,6 +744,6 @@
 
 </span>
 
----  
+##
 
 ![Profile views](https://komarev.com/ghpvc/?username=Bbs1412&color=orange&style=plastic)
