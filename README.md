@@ -17,7 +17,7 @@
 | 👨‍💻 All of my projects are here | [![GitHub](https://img.shields.io/badge/GitHub-Bbs1412-yellow?style=plastic&logo=github)](https://github.com/Bbs1412) |
 | 📫 How to reach me | [![Gmail](https://img.shields.io/badge/Gmail-bhushanbsongire-red?style=plastic&logo=gmail)](mailto:bhushanbsongire@gmail.com) |
 | 📄 Know about my experiences | [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=plastic&logo=invision&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/) |
-| ▶️ Watch my Project Demos | [![YouTube](https://img.shields.io/badge/YouTube-bhushan__songire-red?style=plastic&logo=youtube&logoColor=red)](https://www.youtube.com/@buhshan_songire/videos) |
+| ▶️ Watch my Project Demos | [![YouTube](https://img.shields.io/badge/YouTube-bhushan__songire-red?style=plastic&logo=youtube&logoColor=red)](https://www.youtube.com/@bhushan_songire/videos) |
 <!-- | 🌐 My portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-bhushan--songire-blue?style=plastic&logo=&logoColor=blue)](https://bhushan-songire.github.io/)  -->
 
 ###
@@ -408,11 +408,14 @@
     </tr>
   </thead>
   <tbody>
-    <tr><th colspan="5" id="sec_head">1️⃣ Generative AI Projects</th></tr>
+    <tr><th colspan="5" id="sec_head">1️⃣ Generative AI Projects ✨</th></tr>
     <!-- AI Quiz -->
     <tr>
       <td>01</td>
-      <td><a href="https://github.com/Bbs1412/Inquisitive_GenAI_quiz" target="_blank">Inquisitive: GenAI Powered Quiz Generator</a></td>
+      <td>
+        <!-- <img src="https://img.shields.io/badge/🔥-Noteworthy_Project-orange?style=flat-square" alt="Noteworthy Project" /></br> -->
+        <a href="https://github.com/Bbs1412/Inquisitive_GenAI_quiz" target="_blank">Inquisitive: GenAI Powered Quiz Generator</a>
+      </td>
       <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Inquisitive_GenAI_quiz/assets/ss1_page.png" alt="Inquisitive Project Screenshot" width="1000px"></td>
       <td>Generative AI, <br> EdTech, <br> LLMs</td>
       <!-- <td>Python, Streamlit, Gemini API</td> -->
@@ -433,7 +436,10 @@
     <!-- QnA ChatBot w LangChain -->
     <tr>
       <td>02</td>
-      <td><a href="https://github.com/Bbs1412/QnA_ChatBot" target="_blank">QnA ChatBot with LangChain</a></td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/QnA_ChatBot" target="_blank">QnA ChatBot with LangChain</a>
+      </td>
       <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/QnA_ChatBot/assets/3_demo_chat.png" alt="QnA ChatBot" width="1000px"></td>
       <td>Generative AI, <br> LLM Orchestration</td>
       <!-- <td>Python, Streamlit, LangChain, LangSmith</td> -->
@@ -456,7 +462,10 @@
     <!-- RAG -->
     <tr>
       <td>03</td>
-      <td><a href="https://github.com/Bbs1412/" target="_blank">RAG with LangChain and Gemma-3</a></td>
+      <td>
+        <!-- <img src="https://img.shields.io/badge/🚀-Flagship_Project-d73a49?style=flat-square" alt="Flagship Project" /></br> -->
+        <a href="https://github.com/Bbs1412/" target="_blank">RAG with LangChain and Gemma-3</a>
+      </td>
       <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coming_soon.png" alt="Gemma RAG with LangChain" width="250"></td>
       <td>Generative AI, <br> Information Retrieval, <br> Retrieval Augmented Generation</td>
       <!-- <td>Python, LangChain, Gemma-3, Ollama, FAISS, Streamlit</td> -->
@@ -480,7 +489,10 @@
     <!-- LocalGPT -->
     <tr>
       <td>04</td>
-      <td><a href="https://github.com/Bbs1412/LocalGPT" target="_blank">LocalGPT</a></td>
+      <td>
+        <!-- <img src="https://img.shields.io/badge/🔥-Noteworthy_Project-orange?style=flat-square" alt="Noteworthy Project" /></br> -->
+        <a href="https://github.com/Bbs1412/LocalGPT" target="_blank">LocalGPT</a>
+      </td>
       <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/localgpt/assets/ss_image.png" alt="LocalGPT" width="1000px"></td>
       <td>Generative AI, <br> Offline Chatbots, <br> Local LLMs</td>
       <!-- <td>Python, Streamlit, Ollama</td> -->
@@ -498,11 +510,15 @@
         </details>
       </td>
     </tr>
-    <tr><th colspan="5" id="sec_head">2️⃣ Parallel Computing Projects</th></tr>
+    <!--  -->
+    <tr><th colspan="5" id="sec_head">2️⃣ Computer Vision and Distributed Computing 👀</th></tr>
     <!-- Smart Attendance System -->
     <tr>
       <td>05</td>
-      <td><a href="https://github.com/Bbs1412/SmartAttendanceSystem" target="_blank">Smart Attendance System</a></td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/SmartAttendanceSystem" target="_blank">Smart Attendance System</a>
+      </td>
       <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/SmartAttendanceSystem/Docs/processing.png" alt="Smart Attendance System" width="1000px"></td>
       <td>Face Recognition, <br> Web App, <br> Parallel Computing, <br> Attendance System</td>
       <!-- <td>Python, Flask, Face Recognition, Threading, OpenCV, HTML, CSS, JS</td> -->
@@ -525,7 +541,10 @@
     <!-- Distributed Attendance System -->
     <tr>
       <td>06</td>
-      <td><a href="https://github.com/Bbs1412/DistributedAttendanceSystem" target="_blank">Distributed Attendance System</a></td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/DistributedAttendanceSystem" target="_blank">Distributed Attendance System</a>
+      </td>
       <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/DistributedAttendanceSystem/assets/Client_dynamic.png" alt="Distributed Attendance System" width="1000px"></td>
       <td>Distributed Computing, <br> Face Recognition, <br> Socket Programming</td>
       <!-- <td>Python, Flask, Socket, Face Recognition, OpenCV, HTML, CSS, JS</td> -->
@@ -547,11 +566,15 @@
         </details>
       </td>
     </tr>
-    <tr><th colspan="5" id="sec_head">3️⃣ Hardware Based Projects</th></tr>
+    <!--  -->
+    <tr><th colspan="5" id="sec_head">3️⃣ Hardware Based Projects ⚡</th></tr>
     <!-- Air Quality -->
     <tr>
       <td>07</td>
-      <td><a href="https://github.com/Bbs1412/air-quality-updated" target="_blank">Air Quality Monitoring System with Emergency Alerts</a></td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/air-quality-updated" target="_blank">Air Quality Monitoring System with Emergency Alerts</a>
+      </td>
       <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/air-quality-updated/public_assets/runtime_display_pic.png" alt="Air Quality Monitoring Web App" width="1000px"></td>
       <td>Fog n Edge Computing,<br>IoT,<br>HVAC Monitoring</td>
       <!-- <td>Python, Firebase, HTML, CSS, JavaScript, RaspberryPi, Arduino</td> -->
@@ -574,7 +597,10 @@
     <!-- Ms Min -->
     <tr>
       <td>08</td>
-      <td><a href="https://github.com/Bbs1412/Ms_Minutes" target="_blank">Ms Minutes</a></td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/Ms_Minutes" target="_blank">Ms Minutes</a>
+      </td>
       <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Ms_Minutes/assets/Hardware.png" alt="Ms Minutes" width="1000px"></td>
       <td>Voice Assistant, <br> Home Automation, <br> MPMC</td>
       <!-- <td>Python, Bash, OpenAI API, TTS, PyGame</td> -->
@@ -594,55 +620,15 @@
         </details>
       </td>
     </tr>
-    <tr><th colspan="5" id="sec_head">4️⃣ Web Dev / Mini Projects </th></tr>
-    <!-- VTOP Extension -->
-    <tr>
-      <td>09</td>
-      <td><a href="https://github.com/Bbs1412/VTOP-Extension" target="_blank">VTOP Extension</a></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/VTOP-Extension/assets/after.png" alt="VTOP Extension" width="1000px"></td>
-      <td>Browser Extension, <br> VTOP</td>
-      <!-- <td>JavaScript, Chrome Scripting API, HTML, CSS</td> -->
-      <td><ul>
-        <li>JavaScript</li>
-        <li>Chrome Scripting API</li>
-        <li>HTML, CSS</li></ul>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5">
-        <details>
-          <summary><b>View Project Details</b></summary>
-          <p>This simple Chrome extension enhances the VTOP (Chennai Campus) portal by dynamically adding a total marks row to each subject's marks table. Built with Manifest v3 and the Chrome Scripting API, it's lightweight, easy to install manually, and works seamlessly on Chromium-based browsers.</p>
-        </details>
-      </td>
-    </tr>
-    <!-- Entry Management System -->
-    <tr>
-      <td>10</td>
-      <td><a href="https://github.com/Bbs1412/Swarajya-Food-Entry" target="_blank">Entry Management System</a></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Swarajya-Food-Entry/assets/5_trend.png" alt="Swarajya Entry Management System" width="1000px"></td>
-      <td>Event Management, <br> Offline Verification</td>
-      <!-- <td>Python, Streamlit, MySQL, Plotly Express</td> -->
-      <td><ul>
-        <li>Python</li>
-        <li>Streamlit</li>
-        <li>MySQL</li>
-        <li>Plotly Express</li></ul>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5">
-        <details>
-          <summary><b>View Project Details</b></summary>
-          <p>This project was developed to manage and verify entry for a food-based event organized by Swarajya: Marathi Literary Association at VIT Chennai. The system supports offline verification using MySQL, and a Streamlit-powered UI enables real-time entry marking and error correction. It features live dashboards showing marked/unmarked entries and a trend analysis chart to visualize footfall patterns. Designed for usability, it enables smooth operation across parallel queues using multiple devices on the same network.</p>
-        </details>
-      </td>
-    </tr>
-    <tr><th colspan="5" id="sec_head">5️⃣ AWS Projects</th></tr>
+    <!--  -->
+    <tr><th colspan="5" id="sec_head">4️⃣ AWS Projects ☁️</th></tr>
     <!-- AWS Project - Beginner -->
     <tr>
-      <td>11</td>
-      <td><a href="https://github.com/Bbs1412/aws-travel-guide" target="_blank">AWS - Beginner Project</a></td>
+      <td>09</td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/aws-travel-guide" target="_blank">AWS - Beginner Project</a>
+      </td>
       <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coming_soon.png" alt="Gemma RAG with LangChain" width="250"></td>
       <td>Web Application, <br> Cloud Deployment</td>
       <!-- <td>Python, Flask, AWS EC2, AWS RDS, HTML, CSS, JavaScript</td> -->
@@ -662,11 +648,66 @@
         </details>
       </td>
     </tr>
-    <tr><th colspan="5" id="sec_head">6️⃣ Academic Subject Codes</th></tr>
+    <!--  -->
+    <tr><th colspan="5" id="sec_head">5️⃣ Web Dev / Mini Projects 🌐</th></tr>
+    <!-- VTOP Extension -->
+    <tr>
+      <td>10</td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/VTOP-Extension" target="_blank">VTOP Extension</a>
+      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/VTOP-Extension/assets/after.png" alt="VTOP Extension" width="1000px"></td>
+      <td>Browser Extension, <br> VTOP</td>
+      <!-- <td>JavaScript, Chrome Scripting API, HTML, CSS</td> -->
+      <td><ul>
+        <li>JavaScript</li>
+        <li>Chrome Scripting API</li>
+        <li>HTML, CSS</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>This simple Chrome extension enhances the VTOP (Chennai Campus) portal by dynamically adding a total marks row to each subject's marks table. Built with Manifest v3 and the Chrome Scripting API, it's lightweight, easy to install manually, and works seamlessly on Chromium-based browsers.</p>
+        </details>
+      </td>
+    </tr>
+    <!-- Entry Management System -->
+    <tr>
+      <td>11</td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/Swarajya-Food-Entry" target="_blank">Entry Management System</a>
+      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Swarajya-Food-Entry/assets/5_trend.png" alt="Swarajya Entry Management System" width="1000px"></td>
+      <td>Event Management, <br> Offline Verification</td>
+      <!-- <td>Python, Streamlit, MySQL, Plotly Express</td> -->
+      <td><ul>
+        <li>Python</li>
+        <li>Streamlit</li>
+        <li>MySQL</li>
+        <li>Plotly Express</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>This project was developed to manage and verify entry for a food-based event organized by Swarajya: Marathi Literary Association at VIT Chennai. The system supports offline verification using MySQL, and a Streamlit-powered UI enables real-time entry marking and error correction. It features live dashboards showing marked/unmarked entries and a trend analysis chart to visualize footfall patterns. Designed for usability, it enables smooth operation across parallel queues using multiple devices on the same network.</p>
+        </details>
+      </td>
+    </tr>
+    <!--  -->
+    <tr><th colspan="5" id="sec_head">6️⃣ Academic Subject Codes 📚</th></tr>
     <!-- OS -->
     <tr>
       <td>12</td>
-      <td><a href="https://github.com/Bbs1412/operating-system" target="_blank">Operating System Codes</a></td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/operating-system" target="_blank">Operating System Codes</a>
+      </td>
       <td>-</td>
       <td>Operating Systems, <br> Scheduling, <br>...</td>
       <td><ul>
@@ -677,7 +718,10 @@
     <!-- Crypto -->
     <tr>
       <td>13</td>
-      <td><a href="https://github.com/Bbs1412/cryptography" target="_blank">Cryptography Codes</a></td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/cryptography" target="_blank">Cryptography Codes</a>
+      </td>
       <td>-</td>
       <td>Cryptography, <br> Encryption, <br> Decryption</td>
       <td><ul>
@@ -689,7 +733,10 @@
     <!-- MatLab Codes -->
     <tr>
       <td>14</td>
-      <td><a href="https://github.com/Bbs1412/Matlab" target="_blank">MatLab Codes</a></td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/Matlab" target="_blank">MatLab Codes</a>
+      </td>
       <td>-</td>
       <td>MatLab, <br> Calculus, <br> 3D-Plots</td>
       <td><ul>
