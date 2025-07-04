@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhushan B. Songire</h1>
 
-<img align="right" width="375" alt="coding" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coder.gif">
+<img align="right" style="width:375px;" alt="coding" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coder.gif">
 
 <h3 align="center">I am a computer enthusiast currently pursuing <br> B. Tech in CSE 💻 @ VIT, Chennai.</h3>
 
@@ -30,33 +30,33 @@
 <div align="left" id="languages">
   <!-- python -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/python-original.svg" height=40 alt="python" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/python-original.svg" style="height: 40px;" alt="python" />
+    <img style="width: 6px;">
   </span>
   <!-- c -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/c-original.svg" height=40 alt="c" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/c-original.svg" style="height: 40px;" alt="c" />
+    <img style="width: 6px;">
   </span>
   <!-- c++ -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/cplusplus-original.svg" height=40 alt="cplusplus" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/cplusplus-original.svg" style="height: 40px;" alt="cplusplus" />
+    <img style="width: 6px;">
   </span>
   <!-- java -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/java-original.svg" height=40 alt="java" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/java-original.svg" style="height: 40px;" alt="java" />
+    <img style="width: 6px;">
   </span>
   <!-- matlab -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/matlab-original.svg" height=40 alt="matlab" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/matlab-original.svg" style="height: 40px;" alt="matlab" />
+    <img style="width: 6px;">
   </span>
 </div>
 
@@ -69,52 +69,52 @@
 <div align="left" id="genai"> 
   <!-- LangChain -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/langchain-color.svg" height=60 alt="langchain" align="center" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/langchain-color.svg" style="height: 60px;" alt="langchain" align="center" />
+    <img style="width: 6px;">
   </span>
   <!-- Langgraph -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/langgraph-color.svg" height=60 alt="langgraph" align="center" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/langgraph-color.svg" style="height: 60px;" alt="langgraph" align="center" />
+    <img style="width: 6px;">
   </span>
   <!-- langsmith -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/langsmith-color.svg" height=60 alt="langsmith" align="center" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/langsmith-color.svg" style="height: 60px;" alt="langsmith" align="center" />
+    <img style="width: 6px;">
   </span>
   <!-- Ollama -->
   <span>
-    <img width=6>
+    <img style="width: 6px;">
     <!-- Dark is not visible in white mode -->
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/ollama-light.png" height=40 alt="ollama" align="center" />
-    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/ollama-light.png" style="height: 40px;" alt="ollama" align="center" />
+    <img style="width: 6px;">
   </span>
   <!-- OpenAI -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/openai-streamline-white.svg" height=40 alt="openai" align="center" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/openai-streamline-white.svg" style="height: 40px;" alt="openai" align="center" />
+    <img style="width: 6px;">
   </span>
   <!-- Gemini -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/gemini-color.svg" height=40 alt="gemini" align="center" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/gemini-color.svg" style="height: 40px;" alt="gemini" align="center" />
+    <img style="width: 6px;">
   </span>
   <!-- Chroma -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/chroma-streamline.svg" height=40 alt="chroma" align="center" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/chroma-streamline.svg" style="height: 40px;" alt="chroma" align="center" />
+    <img style="width: 6px;">
   </span>
   <!-- Huggingface -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hugging-streamline.svg" height=40 alt="huggingface" align="center" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hugging-streamline.svg" style="height: 40px;" alt="huggingface" align="center" />
+    <img style="width: 6px;">
   </span>
 
 
@@ -129,51 +129,51 @@
 <div align="left" id="frameworks"> 
   <!-- numpy -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/numpy-original.svg" height=40 alt="numpy" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/numpy-original.svg" style="height: 40px;" alt="numpy" />
+    <img style="width: 6px;">
   </span>
   <!-- pandas -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/pandas-original.svg" height=40 alt="pandas" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/pandas-original.svg" style="height: 40px;" alt="pandas" />
+    <img style="width: 6px;">
   </span>
   <!-- matplotlib -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/matplotlib-original.svg" height=40 alt="matplotlib" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/matplotlib-original.svg" style="height: 40px;" alt="matplotlib" />
+    <img style="width: 6px;">
   </span>
   <!-- sklearn -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/scikitlearn-original.svg" height=40 alt="sklearn" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/scikitlearn-original.svg" style="height: 40px;" alt="sklearn" />
+    <img style="width: 6px;">
   </span>
   <!-- seaborn-sns -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/seaborn.svg" height=40 alt="sns" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/seaborn.svg" style="height: 40px;" alt="sns" />
+    <img style="width: 6px;">
   </span>
   <!-- selenium -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/selenium.svg" height=40 alt="selenium" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/selenium.svg" style="height: 40px;" alt="selenium" />
+    <img style="width: 6px;">
   </span>
   <!-- OpenCV -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/opencv-original.svg" height=40 alt="OpenCV" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/opencv-original.svg" style="height: 40px;" alt="OpenCV" />
+    <img style="width: 6px;">
   </span>
   <!-- MediaPipe -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/mediapipe.svg" height=40 alt="MediaPipe" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/bbs1412/bbs1412/asset_files/mediapipe.svg" style="height: 40px;" alt="MediaPipe" />
+    <img style="width: 6px;">
   </span>
 </div>
 
@@ -186,52 +186,52 @@
 <div align="left" id="web-dev">
   <!-- html -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/html5-original.svg" height=40 alt="html5" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/html5-original.svg" style="height: 40px;" alt="html5" />
+    <img style="width: 6px;">
   </span>
   <!-- css -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/css3-original.svg" height=40 alt="css3" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/css3-original.svg" style="height: 40px;" alt="css3" />
+    <img style="width: 6px;">
   </span>
   <!-- js -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/javascript-plain.svg" height=40 alt="javascript" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/javascript-plain.svg" style="height: 40px;" alt="javascript" />
+    <img style="width: 6px;">
   </span>
   <!-- react -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/react-original.svg" height=40 alt="react.js" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/react-original.svg" style="height: 40px;" alt="react.js" />
+    <img style="width: 6px;">
   </span>
   <!-- streamlit -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/streamlit-original.svg" height=40 alt="streamlit" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/streamlit-original.svg" style="height: 40px;" alt="streamlit" />
+    <img style="width: 6px;">
   </span>
   <!-- flask -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/flask-original-wordmark.svg" height=40 alt="flask" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/flask-original-wordmark.svg" style="height: 40px;" alt="flask" />
+    <img style="width: 6px;">
   </span>
   <!-- fast-api -->
   <span>
-    <img width=6>
+    <img style="width: 6px;">
     <!-- delete local ref line and un-comment github one -->
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/fastapi-original.svg" height=40 alt="fast-api" />
-    <img width=6>
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/fastapi-original.svg" style="height: 40px;" alt="fast-api" />
+    <img style="width: 6px;">
   </span>
   <!-- postman -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/postman-original.svg" height=40 alt="postman" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/postman-original.svg" style="height: 40px;" alt="postman" />
+    <img style="width: 6px;">
   </span>
 </div>
 
@@ -245,33 +245,33 @@
 <div align="left" id="cloud-deployment">
   <!-- Google Cloud GCP -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/googlecloud-original.svg" height=40 alt="google-cloud-platform" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/googlecloud-original.svg" style="height: 40px;" alt="google-cloud-platform" />
+    <img style="width: 6px;">
   </span>
   <!-- Vertex-AI -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vertex-ai.svg" height=40 alt="vertex-ai" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vertex-ai.svg" style="height: 40px;" alt="vertex-ai" />
+    <img style="width: 6px;">
   </span>
   <!-- AWS -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/aws.svg" height=40 alt="amazon-web-services" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/aws.svg" style="height: 40px;" alt="amazon-web-services" />
+    <img style="width: 6px;">
   </span>
   <!-- docker -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/docker-original.svg" height=40 alt="docker" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/docker-original.svg" style="height: 40px;" alt="docker" />
+    <img style="width: 6px;">
   </span>
   <!-- vercel -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vercel-original.svg" height=40 alt="vercel" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vercel-original.svg" style="height: 40px;" alt="vercel" />
+    <img style="width: 6px;">
   </span>
   
 </div>
@@ -288,33 +288,33 @@
 <div align="left" id="databases">
   <!-- firebase -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/firebase-original.svg" height=40 alt="firebase" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/firebase-original.svg" style="height: 40px;" alt="firebase" />
+    <img style="width: 6px;">
   </span>
   <!-- SQL -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sql.svg" height=40 alt="Oracle-SQL" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sql.svg" style="height: 40px;" alt="Oracle-SQL" />
+    <img style="width: 6px;">
   </span>
   <!-- My-SQL -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/mysql.svg" height=45 alt="MySQL" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/mysql.svg" style="height: 45px;" alt="MySQL" />
+    <img style="width: 6px;">
   </span>
   <!-- SQLite -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sqlite.svg" height=40 alt="Python-SQLite" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sqlite.svg" style="height: 40px;" alt="Python-SQLite" />
+    <img style="width: 6px;">
   </span>
   <!-- Sanity -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sanity.svg" height=40 alt="Sanity-CMS" style="border-radius: 8%"/>
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/sanity.svg" style="height: 40px;" alt="Sanity-CMS" style="border-radius: 8%"/>
+    <img style="width: 6px;">
   </span>
 
   
@@ -329,40 +329,40 @@
 <div align="left" id="tools-platforms">
   <!-- linux -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linux_edit_png.png" height=40 alt="linux" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linux_edit_png.png" style="height: 40px;" alt="linux" />
+    <img style="width: 6px;">
   </span>
   <!-- excel -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/excel-4.svg" height=40 alt="excel" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/excel-4.svg" style="height: 40px;" alt="excel" />
+    <img style="width: 6px;">
   </span>
   <!-- git -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/git-original.svg" height=40 alt="git" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/git-original.svg" style="height: 40px;" alt="git" />
+    <img style="width: 6px;">
   </span>
   <!-- github -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/github_edit_png.png" height=40 alt="github" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/github_edit_png.png" style="height: 40px;" alt="github" />
+    <img style="width: 6px;">
   </span>
   <!-- markdown -->
   <!-- <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/markdown-original.svg" height=40 alt="markdown" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/markdown-original.svg" style="height: 40px;" alt="markdown" />
+    <img style="width: 6px;">
   </span> -->
   <!-- vsc -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/code-original.svg" height=40 alt="vsc" />
-    <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vscode-original.svg" height=40 alt="vsc" /> -->
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/code-original.svg" style="height: 40px;" alt="vsc" />
+    <!-- <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/vscode-original.svg" style="height: 40px;" alt="vsc" /> -->
+    <img style="width: 6px;">
   </span>
 </div>
 
@@ -375,15 +375,15 @@
 <div align="left" id="hardware">
   <!-- Raspberry Pi -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/raspberrypi-original.svg" height=40 alt="raspberrypi" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/raspberrypi-original.svg" style="height: 40px;" alt="raspberrypi" />
+    <img style="width: 6px;">
   </span>
   <!-- arduino -->
   <span>
-    <img width=6>
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/arduino-original.svg" height=40 alt="arduino" />
-    <img width=6>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/arduino-original.svg" style="height: 40px;" alt="arduino" />
+    <img style="width: 6px;">
   </span>
 </div>
 
@@ -409,14 +409,43 @@
   </thead>
   <tbody>
     <tr><th colspan="5" id="sec_head">1️⃣ Generative AI Projects ✨</th></tr>
-    <!-- AI Quiz -->
+    <!-- RAG -->
     <tr>
       <td>01</td>
+      <td>
+        <!-- <img src="https://img.shields.io/badge/🚀-Flagship_Project-d73a49?style=flat-square" alt="Flagship Project" /></br> -->
+        <a href="https://github.com/Bbs1412/rag-with-gemma3" target="_blank">RAG with LangChain and Gemma-3</a>
+      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/rag-with-gemma3/Docs/RAG-with-Gemma3.png" alt="Gemma RAG with LangChain" style="width: 1000px;"></td>
+      <td>Generative AI, <br> Information Retrieval, <br> Retrieval Augmented Generation</td>
+      <!-- <td>Python, LangChain, Gemma-3, Ollama, FAISS, Streamlit</td> -->
+      <td><ul>
+        <!-- <li>Python</li> -->
+        <li>LangChain</li>
+        <li>FastAPI</li>
+        <li>Ollama</li>
+        <li>Gemma-3</li>
+        <li>FAISS</li>
+        <li>Streamlit</li>
+        <li>Docker</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>RAG with Gemma-3 is end-to-end and fully local system that lets users upload documents (PDF, TXT, MD, etc.) and chat with them using natural language. It runs on Gemma-3 LLM and mxbai-embeddings via Ollama, ensuring privacy and low-latency responses without needing the cloud. Built using LangChain, FastAPI, Streamlit, FAISS, Docker, and SQLite, it supports multi-file uploads, vector embeddings, real-time <mark>streaming responses</mark>, user authentication, and session history. Designed to be <mark>modular, clean, and fast</mark> - perfect for personal assistants, or educational use.</p>
+        </details>
+      </td>
+    </tr>
+    <!-- AI Quiz -->
+    <tr>
+      <td>02</td>
       <td>
         <!-- <img src="https://img.shields.io/badge/🔥-Noteworthy_Project-orange?style=flat-square" alt="Noteworthy Project" /></br> -->
         <a href="https://github.com/Bbs1412/Inquisitive_GenAI_quiz" target="_blank">Inquisitive: GenAI Powered Quiz Generator</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Inquisitive_GenAI_quiz/assets/ss1_page.png" alt="Inquisitive Project Screenshot" width="1000px"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Inquisitive_GenAI_quiz/assets/ss1_page.png" alt="Inquisitive Project Screenshot" style="width: 1000px;"></td>
       <td>Generative AI, <br> EdTech, <br> LLMs</td>
       <!-- <td>Python, Streamlit, Gemini API</td> -->
       <td><ul>
@@ -435,12 +464,12 @@
     </tr>
     <!-- QnA ChatBot w LangChain -->
     <tr>
-      <td>02</td>
+      <td>03</td>
       <td>
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/QnA_ChatBot" target="_blank">QnA ChatBot with LangChain</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/QnA_ChatBot/assets/3_demo_chat.png" alt="QnA ChatBot" width="1000px"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/QnA_ChatBot/assets/3_demo_chat.png" alt="QnA ChatBot" style="width: 1000px;"></td>
       <td>Generative AI, <br> LLM Orchestration</td>
       <!-- <td>Python, Streamlit, LangChain, LangSmith</td> -->
       <td><ul>
@@ -459,33 +488,6 @@
         </details>
       </td>
     </tr>
-    <!-- RAG -->
-    <tr>
-      <td>03</td>
-      <td>
-        <!-- <img src="https://img.shields.io/badge/🚀-Flagship_Project-d73a49?style=flat-square" alt="Flagship Project" /></br> -->
-        <a href="https://github.com/Bbs1412/" target="_blank">RAG with LangChain and Gemma-3</a>
-      </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coming_soon.png" alt="Gemma RAG with LangChain" width="250"></td>
-      <td>Generative AI, <br> Information Retrieval, <br> Retrieval Augmented Generation</td>
-      <!-- <td>Python, LangChain, Gemma-3, Ollama, FAISS, Streamlit</td> -->
-      <td><ul>
-        <!-- <li>Python</li> -->
-        <li>LangChain</li>
-        <li>Ollama</li>
-        <li>Gemma-3</li>
-        <li>FAISS</li>
-        <li>Streamlit</li></ul>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5">
-        <details>
-          <summary><b>View Project Details</b></summary>
-          <p>This project implements Retrieval-Augmented Generation (RAG) using LangChain and Google’s Gemma-3 model. It features a modular design with document ingestion, FAISS-based embedding storage, and real-time querying via a Streamlit interface. The user inputs a question, and the system retrieves relevant context chunks before generating a precise response.</p>
-        </details>
-      </td>
-    </tr>
     <!-- LocalGPT -->
     <tr>
       <td>04</td>
@@ -493,7 +495,7 @@
         <!-- <img src="https://img.shields.io/badge/🔥-Noteworthy_Project-orange?style=flat-square" alt="Noteworthy Project" /></br> -->
         <a href="https://github.com/Bbs1412/LocalGPT" target="_blank">LocalGPT</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/localgpt/assets/ss_image.png" alt="LocalGPT" width="1000px"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/localgpt/assets/ss_image.png" alt="LocalGPT" style="width: 1000px;"></td>
       <td>Generative AI, <br> Offline Chatbots, <br> Local LLMs</td>
       <!-- <td>Python, Streamlit, Ollama</td> -->
       <td><ul>
@@ -519,7 +521,7 @@
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/SmartAttendanceSystem" target="_blank">Smart Attendance System</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/SmartAttendanceSystem/Docs/processing.png" alt="Smart Attendance System" width="1000px"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/SmartAttendanceSystem/Docs/processing.png" alt="Smart Attendance System" style="width: 1000px;"></td>
       <td>Face Recognition, <br> Web App, <br> Parallel Computing, <br> Attendance System</td>
       <!-- <td>Python, Flask, Face Recognition, Threading, OpenCV, HTML, CSS, JS</td> -->
       <td><ul>
@@ -545,7 +547,7 @@
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/DistributedAttendanceSystem" target="_blank">Distributed Attendance System</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/DistributedAttendanceSystem/assets/Client_dynamic.png" alt="Distributed Attendance System" width="1000px"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/DistributedAttendanceSystem/assets/Client_dynamic.png" alt="Distributed Attendance System" style="width: 1000px;"></td>
       <td>Distributed Computing, <br> Face Recognition, <br> Socket Programming</td>
       <!-- <td>Python, Flask, Socket, Face Recognition, OpenCV, HTML, CSS, JS</td> -->
       <td><ul>
@@ -575,7 +577,7 @@
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/air-quality-updated" target="_blank">Air Quality Monitoring System with Emergency Alerts</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/air-quality-updated/public_assets/runtime_display_pic.png" alt="Air Quality Monitoring Web App" width="1000px"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/air-quality-updated/public_assets/runtime_display_pic.png" alt="Air Quality Monitoring Web App" style="width: 1000px;"></td>
       <td>Fog n Edge Computing,<br>IoT,<br>HVAC Monitoring</td>
       <!-- <td>Python, Firebase, HTML, CSS, JavaScript, RaspberryPi, Arduino</td> -->
       <td><ul>
@@ -601,7 +603,7 @@
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/Ms_Minutes" target="_blank">Ms Minutes</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Ms_Minutes/assets/Hardware.png" alt="Ms Minutes" width="1000px"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Ms_Minutes/assets/Hardware.png" alt="Ms Minutes" style="width: 1000px;"></td>
       <td>Voice Assistant, <br> Home Automation, <br> MPMC</td>
       <!-- <td>Python, Bash, OpenAI API, TTS, PyGame</td> -->
       <td><ul>
@@ -627,15 +629,16 @@
       <td>09</td>
       <td>
         <!-- Badge (if any) -->
-        <a href="https://github.com/Bbs1412/aws-travel-guide" target="_blank">AWS - Beginner Project</a>
+        <a href="https://github.com/Bbs1412/aws_beginner_project" target="_blank">AWS - Beginner Project</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coming_soon.png" alt="Gemma RAG with LangChain" width="250"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coming_soon.png" alt="AWS Beginner Project" style="width: 250px;"></td>
       <td>Web Application, <br> Cloud Deployment</td>
       <!-- <td>Python, Flask, AWS EC2, AWS RDS, HTML, CSS, JavaScript</td> -->
       <td><ul>
         <li>Python - Flask</li>
         <li>AWS EC2</li>
         <li>AWS RDS</li>
+        <li>AWS S3</li>
         <li>SQLite</li>
         <li>HTML, CSS, JS</li></ul>
       </td>
@@ -644,7 +647,33 @@
       <td colspan="5">
         <details>
           <summary><b>View Project Details</b></summary>
-          <p>This project is a beginner-friendly travel guide application deployed fully on AWS infrastructure. It uses EC2 for hosting the Flask backend, RDS (MySQL) or SQLite for storing location data, and presents travel recommendations through a clean web interface. The project demonstrates basic cloud deployment, database integration, and responsive web design, making it ideal for understanding AWS fundamentals.</p>
+          <p>This project is a beginner-friendly travel guide application deployed fully on AWS infrastructure. It uses EC2 for hosting the Flask backend, RDS (MySQL) or SQLite for storing location data, S3 storage bucket for hosting public images and presents travel recommendations through a clean web interface. The project demonstrates basic cloud deployment, database integration, and responsive web design, making it ideal for understanding AWS fundamentals.</p>
+        </details>
+      </td>
+    </tr>
+    <!-- AWS Project - Advanced -->
+    <tr>
+      <td>10</td>
+      <td>
+        <!-- Badge (if any) -->
+        <a href="https://github.com/Bbs1412/aws_advanced_project" target="_blank">AWS - Advanced Project</a>
+      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/coming_soon.png" alt="AWS Advanced Project" style="width: 250px;"></td>
+      <td>Web Application, <br> Cloud Deployment</td>
+      <td><ul>
+        <li>Python - Flask</li>
+        <li>AWS EC2</li>
+        <li>AWS RDS</li>
+        <li>AWS Cognito</li>
+        <li>AWS SNS</li>
+        <li>HTML, CSS, JS</li></ul>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <details>
+          <summary><b>View Project Details</b></summary>
+          <p>This project is incremental improvement of the previous travel guide application. Moving forward from the basic deployment, it now includes more AWS Services like RDS for database management, Cognito for user authentication, and SNS for notifications, Translate for content translation. The project is focused on utilizing multiple AWS services for scalability and security.</p>
         </details>
       </td>
     </tr>
@@ -652,12 +681,12 @@
     <tr><th colspan="5" id="sec_head">5️⃣ Web Dev / Mini Projects 🌐</th></tr>
     <!-- VTOP Extension -->
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/VTOP-Extension" target="_blank">VTOP Extension</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/VTOP-Extension/assets/after.png" alt="VTOP Extension" width="1000px"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/VTOP-Extension/assets/after.png" alt="VTOP Extension" style="width: 1000px;"></td>
       <td>Browser Extension, <br> VTOP</td>
       <!-- <td>JavaScript, Chrome Scripting API, HTML, CSS</td> -->
       <td><ul>
@@ -676,12 +705,12 @@
     </tr>
     <!-- Entry Management System -->
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/Swarajya-Food-Entry" target="_blank">Entry Management System</a>
       </td>
-      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Swarajya-Food-Entry/assets/5_trend.png" alt="Swarajya Entry Management System" width="1000px"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Swarajya-Food-Entry/assets/5_trend.png" alt="Swarajya Entry Management System" style="width: 1000px;"></td>
       <td>Event Management, <br> Offline Verification</td>
       <!-- <td>Python, Streamlit, MySQL, Plotly Express</td> -->
       <td><ul>
@@ -703,7 +732,7 @@
     <tr><th colspan="5" id="sec_head">6️⃣ Academic Subject Codes 📚</th></tr>
     <!-- OS -->
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/operating-system" target="_blank">Operating System Codes</a>
@@ -717,7 +746,7 @@
     </tr>
     <!-- Crypto -->
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/cryptography" target="_blank">Cryptography Codes</a>
@@ -732,7 +761,7 @@
     </tr>
     <!-- MatLab Codes -->
     <tr>
-      <td>14</td>
+      <td>15</td>
       <td>
         <!-- Badge (if any) -->
         <a href="https://github.com/Bbs1412/Matlab" target="_blank">MatLab Codes</a>
@@ -758,10 +787,10 @@
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bbs1412&theme=chartreuse-dark" alt="Bhushan's Top Languages" />
 
 <div align=center>
-  <img width=500 src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github&noCache=true" alt="Bhushan's GitHub stats" />
+  <img style="width: 500px;" src="https://github-readme-stats.vercel.app/api?username=Bbs1412&show_icons=true&theme=radical&rank_icon=github&noCache=true" alt="Bhushan's GitHub stats" />
   <br>
-  <!-- <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Bbs1412&theme=dark" alt="Bhushan's Streak" /> -->
-  <img width=500 src="https://streak-stats.demolab.com/?user=Bbs1412&theme=dark" alt="Bhushan's Streak" />
+  <!-- <img style="width: 500px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Bbs1412&theme=dark" alt="Bhushan's Streak" /> -->
+  <img style="width: 500px;" src="https://streak-stats.demolab.com/?user=Bbs1412&theme=dark" alt="Bhushan's Streak" />
   
   <br>
 </div>
@@ -775,17 +804,17 @@
 
 <span>
   <!-- GCSB -->
-  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
-  <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/722b070b-ede3-44fc-b97e-f10469c156f9"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/googlecloud-original.svg" height="40" alt="Google Cloud Skills Boost"></a>
-  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <a target="_blank"><img style="width:6px; max-width: 100%;"></a>
+  <a target="_blank" href="https://www.cloudskillsboost.google/public_profiles/722b070b-ede3-44fc-b97e-f10469c156f9"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/googlecloud-original.svg" style="height: 40px;" alt="Google Cloud Skills Boost"></a>
+  <a target="_blank"><img style="width:6px; max-width: 100%;"></a>
   <!-- Hacker rank -->
-  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
-  <a target="_blank" href="https://www.hackerrank.com/profile/bhushanbsongire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hackerrank_o.svg" height="38" alt="hackerrank"></a>
-  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <a target="_blank"><img style="width:6px; max-width: 100%;"></a>
+  <a target="_blank" href="https://www.hackerrank.com/profile/bhushanbsongire"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/hackerrank_o.svg" style="height: 38px;" alt="hackerrank"></a>
+  <a target="_blank"><img style="width:6px; max-width: 100%;"></a>
   <!-- LinkedIn -->
-  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/bhushan-songire/#licenses_and_certifications"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-original.svg" height="40" alt="LinkedIn Certifications"></a>
-  <a target="_blank"><img width="6" style="max-width: 100%;"></a>
+  <a target="_blank"><img style="width:6px; max-width: 100%;"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/bhushan-songire/#licenses_and_certifications"><img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/linkedin-original.svg" style="height: 40px;" alt="LinkedIn Certifications"></a>
+  <a target="_blank"><img style="width:6px; max-width: 100%;"></a>
 
   <!-- <img alt="Coding Badges" src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/Badges.png">  -->
 
