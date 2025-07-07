@@ -14,11 +14,11 @@
 
 | | |
 |:-|:-|
+| 🌐 My portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-bhushan--songire-blue?style=plastic&logo=vercel&logoColor=black)](https://bhushan-songire-portfolio.vercel.app/) 
 | 👨‍💻 All of my projects are here | [![GitHub](https://img.shields.io/badge/GitHub-Bbs1412-yellow?style=plastic&logo=github)](https://github.com/Bbs1412) |
 | 📫 How to reach me | [![Gmail](https://img.shields.io/badge/Gmail-bhushanbsongire-red?style=plastic&logo=gmail)](mailto:bhushanbsongire@gmail.com) |
 | 📄 Know about my experiences | [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhushan--songire-blue?style=plastic&logo=invision&logoColor=blue)](https://www.linkedin.com/in/bhushan-songire/) |
 | ▶️ Watch my Project Demos | [![YouTube](https://img.shields.io/badge/YouTube-bhushan__songire-red?style=plastic&logo=youtube&logoColor=red)](https://www.youtube.com/@bhushan_songire/videos) |
-<!-- | 🌐 My portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-bhushan--songire-blue?style=plastic&logo=&logoColor=blue)](https://bhushan-songire.github.io/)  -->
 
 ###
 
